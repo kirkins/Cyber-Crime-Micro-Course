@@ -16,4 +16,5 @@ nav: links
 - [Anti-Captcha](https://anti-captcha.com/) - Captcha solving as a service through API.
 - [2captcha](https://2captcha.com/) - Captcha solving as a service through API.
 - [ProxyScrape](https://proxyscrape.com/) - Site for residential proxies.
+- [Trape](https://github.com/jofpin/trape) - OSINT tool for doxxing a targetted individual to get social media, geographical, and session data.
 
