@@ -1,0 +1,9 @@
+url: 'https://kirkins.github.io/Cyber-Crime-Micro-Course'
+timezone: America/Los_Angeles
+markdown: redcarpet
+redcarpet:
+  extensions: ['no_intra_emphasis', 'fenced_code_blocks', 'autolink', 'tables', 'with_toc_data']
+highlighter: pygments
+permalink: none
+paginate_path: 'page:num'
+exclude: ['.gitignore', 'README.md', 'LICENSE.md']

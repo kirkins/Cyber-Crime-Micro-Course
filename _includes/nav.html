@@ -1,0 +1,43 @@
+<div id="sidebar">
+	{% if site.data.main.github or site.data.main.piazza %}	
+	<div id="quicklinks">
+			<ul>
+				{% if site.data.main.github %}
+					<li><a href="{{site.data.main.github}}"><img src="{{site.url}}/style/github.png" /><br>Github</a></li>
+				{% endif %}
+				{% if site.data.main.piazza %}
+					<li><a href="{{site.data.main.piazza}}"><img src="{{site.url}}/style/piazza.png" /><br>Ask on Piazza</a></li>
+				{% endif %}
+			</ul>
+			<div class="clear"></div>
+	</div>
+	{% endif %}
+	<nav><ul>
+		{% for p in site.data.pages %}
+			{% if p[1].external %}
+				<a href="{{p[1].link}}"><li>{{p[1].label}}</li></a>
+			{% elsif p[1].link %}
+				<a href="{{ site.url }}/{{p[1].link}}"
+				{% if page.nav == p[0] %} class="active" {% endif %}>
+					<li>{{p[1].label}}</li>
+				</a>
+			{% else %}
+				<a href="{{ site.url }}/{{p[0]}}.html"
+				{% if page.nav == p[0] %} class="active" {% endif %}>
+					<li>{{p[1]}}</li>
+				</a>
+			{% endif %}
+		{% endfor %}
+	</ul></nav>
+</div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-43261206-2', 'usc.edu');
+  ga('send', 'pageview');
+
+</script>

@@ -1,0 +1,11 @@
+index: 'Home'
+overview: 'Overview / Mindmap'
+types: 'Common Attacks'
+glossary: 'Glossary'
+interviews:
+  label: 'Interviews'
+  link: 'interviews'
+papers:
+  label: 'Research Papers'
+  link: 'papers'
+links: 'Various Links'
