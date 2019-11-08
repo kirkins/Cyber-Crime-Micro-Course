@@ -2,6 +2,7 @@ index: 'Home'
 overview: 'Overview / Mindmap'
 types: 'Common Attacks'
 glossary: 'Glossary'
+hardware: 'IoT and Botnets'
 interviews:
   label: 'Interviews'
   link: 'interviews'
