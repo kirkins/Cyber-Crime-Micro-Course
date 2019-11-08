@@ -4,7 +4,7 @@ title: IoT Devices and Botnets
 nav: hardware
 ---
 
-## Common Attacks
+## IoT and Botnets
 
 *Originally written for weekly discussion in COMP 601*
 
