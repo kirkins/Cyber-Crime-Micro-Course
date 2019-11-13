@@ -28,3 +28,7 @@ A network of compromised computers controlled by a single entity.
 Stands for Remote Access Trojan is a program used to take complete control of a victims computer, is the individual program which connects a client computer to a botnet.
 - **RootKit**:
 Computer software which allows the attacker to embedded an application at a lower level of the opperating system, giving it more permissions and making it hard to detect. Particularly dangerous rootkits may even be able to compromise a computer at the kernel or GPU level.
+- **Spreading**:
+The act of spreading maleware on computers not owned by the attacker. Often the target program will be a RAT which adds the target computer to a botnet. Someone engaged in spreading may specialize in the act, by working for a botnet opperator, being paid per install.
+- **Rubber Ducky USB**
+A USB which appears to be a normal storage USB but in actuality registers with the computer as a wireless keyboard, which has pre-written commands programmed by the attacker. Someone engaged in "spreading" may insert the USB and have the Rubber Ducky USB automatically compromise the computer.
