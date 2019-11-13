@@ -18,3 +18,4 @@ nav: links
 - [ProxyScrape](https://proxyscrape.com/) - Site for residential proxies.
 - [Trape](https://github.com/jofpin/trape) - OSINT tool for doxxing a targetted individual to get social media, geographical, and session data.
 - [Rubber Ducky USB](https://shop.hak5.org/products/usb-rubber-ducky-deluxe) - USB which registers as a wireless keyboard and inputs pre-written commands automatically, often used to compromise a computer in the act of spreading.
+- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - OSInt Tool for finding information on a phone number
