@@ -22,3 +22,9 @@ A bank account which can recieve money transfers which is not associated with th
 The configurations file for a software or script to target a specific site, most often these are OpenBullet configuration files. For example *"buying nordvpn config file"*, would indicate that a user is looking to buy an OpenBullet configuraiton file to target NordVpn.
 - **DB Dumps**:  
 Short form for database dump. Often obtained through an SQL Injection attack.
+- **BotNet**:
+A network of compromised computers controlled by a single entity.
+- **RAT**:
+Stands for Remote Access Trojan is a program used to take complete control of a victims computer, is the individual program which connects a client computer to a botnet.
+- **RootKit**:
+Computer software which allows the attacker to embedded an application at a lower level of the opperating system, giving it more permissions and making it hard to detect. Particularly dangerous rootkits may even be able to compromise a computer at the kernel or GPU level.
