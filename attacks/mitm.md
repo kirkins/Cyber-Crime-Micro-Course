@@ -22,8 +22,10 @@ Attacker creates IP packets which have a false source IP address in order to imp
 
 An attack that involves corrupting a Domain Name Server so that website names can be associated with an incorrect IP address, thus allowing for MiTM attacks or phising.
 
-### SSL Hijacking
+### SSL Stripping / SSL Hijacking
 
+Involves intercepting the user when they are being transfered from an open HTTP connection to a secure HTTPS connection. The attacker provides a false SSL certificate to the end client making them interpret this SSL certificate as being that of the intended end website when it is in fact a certificate controlled by the attacker.
 
+Alternatively the attacker can intercept the HTTPS request and redirect it to an unsecure HTTP connection which is controlled by the attacker.
 
-### SSL Stripping
+SSL Stripping was first exposed as a method of attack in 2009, by security research Moxie Marlinspike at the annual BlackHat conference in Las Vegas.

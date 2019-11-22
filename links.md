@@ -53,6 +53,10 @@ nav: links
 - [Defending Against BGP Man-In-The-Middle Attacks](https://web.archive.org/web/20110704032052/http://www.renesys.com/tech/presentations/pdf/blackhat-09.pdf) - BlackHat 2009 Presentation on BGP MiTM
 - [Did China Hijack 15% of the Internet: Routers, BGP and Ignorance](https://web.archive.org/web/20130401022203/http://www.omninerd.com/articles/Did_China_Hijack_15_of_the_Internet_Routers_BGP_and_Ignorance)
 - [Configuring Frida with BurpSuite and Genymotion to bypass Android SSL Pinning](https://spenkk.github.io/bugbounty/Configuring-Frida-with-Burp-and-GenyMotion-to-bypass-SSL-Pinning/)
+- [Security Wiki](https://doubleoctopus.com/security-wiki/)
+- [UNDERSTANDING MAN-IN-THE-MIDDLE ATTACKS - SSL HIJACKING (PART 4)](https://cert.ir/news/entry/12059?language_id=1)
+- [Thought Crime](http://thoughtcrime.org/) - Blog of security researcher Moxie Marlinspike
+- [SSL Stripping Presentation](https://www.owasp.org/images/7/7a/SSL_Spoofing.pdf) - Power Point on SSL Stripping by Duane Peifer
 
 ### Videos
 - [What is SSL Pinning](https://www.youtube.com/watch?v=is8lHjEkk7U) - Quck video about SSL Pinning
@@ -65,3 +69,5 @@ nav: links
 - [Reverse engineering with #Ghidra: Breaking an embedded firmware encryption scheme](https://www.youtube.com/watch?v=4urMITJKQQs)
 - [Ghidra quickstart & tutorial: Solving a simple crackme](https://www.youtube.com/watch?v=fTGTnrgjuGA)
 - [DeepSec In-Depth Security Conference 2017](https://vimeo.com/ondemand/130877/)
+- [Computer Science E-1: SSL and Session Hijacking](https://www.youtube.com/watch?v=zsR1YVNmPPc)
+- [DEF CON 17 - Moxie Marlinspike - More Tricks for Defeating SSL](https://www.youtube.com/watch?v=5dhSN9aEljg)
