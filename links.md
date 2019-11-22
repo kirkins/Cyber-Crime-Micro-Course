@@ -25,6 +25,8 @@ nav: links
 - [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - OSInt Tool for finding information on a phone number.
 - [John the Ripper](https://github.com/magnumripper/JohnTheRipper) - A free tool for cracking hashed passwords.
 - [IDA Pro](https://www.hex-rays.com/products/ida/) - A popular tool for reverse engineering.
+- [Burp Suite](https://portswigger.net/burp) - Tool for traffic analysis.
+- [Maltego](https://maltego.com)
 
 ### Defensive Tools
 
@@ -48,9 +50,13 @@ nav: links
 - [All That You Need to Know About Man-in-the-Middle Attacks](https://www.acunetix.com/blog/articles/man-in-the-middle-attacks/) - Article on MiTM
 - [Defending Against BGP Man-In-The-Middle Attacks](https://web.archive.org/web/20110704032052/http://www.renesys.com/tech/presentations/pdf/blackhat-09.pdf) - BlackHat 2009 Presentation on BGP MiTM
 - [Did China Hijack 15% of the Internet: Routers, BGP and Ignorance](https://web.archive.org/web/20130401022203/http://www.omninerd.com/articles/Did_China_Hijack_15_of_the_Internet_Routers_BGP_and_Ignorance)
+- [Configuring Frida with BurpSuite and Genymotion to bypass Android SSL Pinning](https://spenkk.github.io/bugbounty/Configuring-Frida-with-Burp-and-GenyMotion-to-bypass-SSL-Pinning/)
 
 ### Videos
 - [What is SSL Pinning](https://www.youtube.com/watch?v=is8lHjEkk7U) - Quck video about SSL Pinning
 - [SSL pinning for Android iOS](https://www.youtube.com/watch?v=O7aTw81R6OI) - Video about SSL pinning from developer point of view
 - [Man in the Middle Attacks & Superfish - Computerphile](https://www.youtube.com/watch?v=-enHfpHMBo4)
 - [Running an SQL Injection Attack - Computerphile](https://www.youtube.com/watch?v=ciNHn38EyRc)
+- [Chip & PIN Fraud Explained - Computerphile](https://www.youtube.com/watch?v=Ks0SOn8hjG8)
+- [How Criminals Bypass CAPTCHAs](https://www.youtube.com/watch?v=xdqFGlSeR-Y)
+- [Maltego - Cyber Weapons Lab - Research like an OSINT Analyst](https://www.youtube.com/watch?v=46st98FUf8s)

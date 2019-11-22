@@ -35,4 +35,4 @@ A USB which appears to be a normal storage USB but in actuality registers with t
 - **Rainbow Table**
 A table of common passwords stored using the hashed output as the key. Significantly speeds up the process of cracking hashed passwords.
 - **SSL Certificate Unpinning**
-Often mobile applications will compile an SSL certificate into a mobile app. This allows the mobile app to use the server API in a different way which can bypass things like captcha. Unpinning is the process of extracting the certificate from a compiled mobile application.
+Often mobile applications will compile a public SSL certifiate into a mobile app. This makes it so MiTM attacks can't be executed even if the person with the phone has full control of the network, since it only accepts requests which have been signed using the companies private key. Unpinning is the process of disabling the SSL certificate so that a MiTM attack can be performed *(most often by the owner of the device)*. Ussually done in order to sniff requests to server to see what values are contained so that a confiugration file can be created for a credential stuffing attack.
