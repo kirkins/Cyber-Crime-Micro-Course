@@ -22,8 +22,6 @@ When a large amount of traffic or requests is sent to a website in order to over
 *When an attacker contacts a phone company to fraudulenty claim a cellphone has been lost or stolen and have the number moved to another SIM card in pocession of the attacker. Often used as a way to gain access to websites or accounts which require 2FA*.
 - **Session Hijacking**:  
 *When an attacker resumes another users session with a website or app by gaining access to the means by which the website/application tracks the logged in user, this could be a cookie, token, or other means.*
-- **DNS Poisoning**:
-*An attack that involves corrupting a Domain Name Server so that website names can be associated with an incorrect IP address, thus allowing for phishing attacks.*
 
 ## Other Attacks
 
