@@ -28,3 +28,4 @@ nav: links
 - [Anti-Captcha](https://anti-captcha.com/) - Captcha solving as a service through API.
 - [2captcha](https://2captcha.com/) - Captcha solving as a service through API.
 - [Have I been Pwned](https://haveibeenpwned.com/) - A website that allows users to see if a password associated with their email has been leaked.
+- [Shodan](https://www.shodan.io/) - A website for finding internet connected devices on the web.
