@@ -4,11 +4,13 @@ title: Links
 nav: links
 ---
 
-## Books
+## Links
+
+### Books
 - [Industry of Anonymity: Inside the Business of Cybercrime](https://www.hup.harvard.edu/catalog.php?isbn=9780674979413)
 - [Future Crimes: Everything Is Connected, Everyone Is Vulnerable and What We Can Do About It](http://www.futurecrimesbook.com/)
 
-## Tools
+### Tools
 
 - [Kamerka](https://github.com/woj-ciech/kamerka) - Tool for looking at internet exposed critical infustructure.
 - [Skipfish](https://tools.kali.org/web-applications/skipfish) - Reconnaissance tool for finding vulnerabilities in websites.
@@ -24,22 +26,22 @@ nav: links
 - [John the Ripper](https://github.com/magnumripper/JohnTheRipper) - A free tool for cracking hashed passwords.
 - [IDA Pro](https://www.hex-rays.com/products/ida/) - A popular tool for reverse engineering.
 
-## Defensive Tools
+### Defensive Tools
 
 - [LetsEncrypt](https://letsencrypt.org/) - A free and automated way to create SSL certificates for HTTPS.
 
-## Web Services
+### Web Services
 
 - [Anti-Captcha](https://anti-captcha.com/) - Captcha solving as a service through API.
 - [2captcha](https://2captcha.com/) - Captcha solving as a service through API.
 - [Have I been Pwned](https://haveibeenpwned.com/) - A website that allows users to see if a password associated with their email has been leaked.
 - [Shodan](https://www.shodan.io/) - A website for finding internet connected devices on the web.
 
-## Papers / Research
+### Papers / Research
 
 - [A Review of Man-in-the-Middle Attacks](http://dl.acm.org/citation.cfm?id=358797) - One of the first mentions of man in the middle attack (1981).
 
-## Addition References Used
+### Addition References Used
 
 - [Answer About Origins of MiTM](https://security.stackexchange.com/a/78844/9472) - Schroeder user on Security Exchange who answered question on origin of MiTM.
 - [DNS Spoofing vs ARP spoofing, the relationship?](https://security.stackexchange.com/questions/10029/dns-spoofing-vs-arp-spoofing-the-relationship/10030#10030) - Answer on DNS Spoofing vs ARP Spoofing
@@ -47,7 +49,7 @@ nav: links
 - [Defending Against BGP Man-In-The-Middle Attacks](https://web.archive.org/web/20110704032052/http://www.renesys.com/tech/presentations/pdf/blackhat-09.pdf) - BlackHat 2009 Presentation on BGP MiTM
 - [Did China Hijack 15% of the Internet: Routers, BGP and Ignorance](https://web.archive.org/web/20130401022203/http://www.omninerd.com/articles/Did_China_Hijack_15_of_the_Internet_Routers_BGP_and_Ignorance)
 
-## Videos
+### Videos
 - [What is SSL Pinning](https://www.youtube.com/watch?v=is8lHjEkk7U) - Quck video about SSL Pinning
 - [SSL pinning for Android iOS](https://www.youtube.com/watch?v=O7aTw81R6OI) - Video about SSL pinning from developer point of view
 - [Man in the Middle Attacks & Superfish - Computerphile](https://www.youtube.com/watch?v=-enHfpHMBo4)
