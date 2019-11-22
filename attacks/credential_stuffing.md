@@ -35,9 +35,12 @@ One cracker I talked to reported that he had even encountered fake captcha syste
     document.getElementById("login").focus();
 
     function reloadimg() {
-        var a = Math.random();
-    document.getElementById("captcharand").value=a;
-    document.getElementById("captcha").innerHTML = '<img onclick="reloadimg(); return false;" src="captcha/generate.php?rand='+a+' " style="cursor:pointer;" />';
+      var a = Math.random();
+      document.getElementById("captcharand").value=a;
+      document.getElementById("captcha").innerHTML = '<img onclick="reloadimg();
+                                                        return false;"
+                                                        src="captcha/generate.php?rand='+a+' "
+                                                        style="cursor:pointer;" />';
     };
     reloadimg();
     </script><br>Captcha:<br>
