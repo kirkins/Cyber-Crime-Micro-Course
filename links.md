@@ -62,6 +62,7 @@ nav: links
 - [SSL Strip for Newbies](https://avicoder.me/2016/02/22/SSLstrip-for-newbies/)
 - [I'm here to Protect You](https://secjohn.blogspot.com/) - Security Architecture, Leadership, and Pen Testing. Oh My!
 - [SuperFish public and private key](https://gist.github.com/mathiasbynens/7a13a467b22c42505490)
+- [NSA Cybersecurity open source software releases](https://nsacyber.github.io/opensource.html)
 
 ### Videos
 - [What is SSL Pinning](https://www.youtube.com/watch?v=is8lHjEkk7U) - Quck video about SSL Pinning

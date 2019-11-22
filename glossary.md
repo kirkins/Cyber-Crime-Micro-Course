@@ -30,11 +30,11 @@ Stands for Remote Access Trojan is a program used to take complete control of a 
 Computer software which allows the attacker to embedded an application at a lower level of the opperating system, giving it more permissions and making it hard to detect. Particularly dangerous rootkits may even be able to compromise a computer at the kernel or GPU level.
 - **Spreading**:
 The act of spreading maleware on computers not owned by the attacker. Often the target program will be a RAT which adds the target computer to a botnet. Someone engaged in spreading may specialize in the act, by working for a botnet opperator, being paid per install.
-- **Rubber Ducky USB**
+- **Rubber Ducky USB**:
 A USB which appears to be a normal storage USB but in actuality registers with the computer as a wireless keyboard, which has pre-written commands programmed by the attacker. Someone engaged in "spreading" may insert the USB and have the Rubber Ducky USB automatically compromise the computer.
-- **Rainbow Table**
+- **Rainbow Table**:
 A table of common passwords stored using the hashed output as the key. Significantly speeds up the process of cracking hashed passwords.
-- **SSL Certificate Unpinning**
+- **SSL Certificate Unpinning**:
 Often mobile applications will compile a public SSL certifiate into a mobile app. This makes it so MiTM attacks can't be executed even if the person with the phone has full control of the network, since it only accepts requests which have been signed using the companies private key. Unpinning is the process of disabling the SSL certificate so that a MiTM attack can be performed *(most often by the owner of the device)*. Ussually done in order to sniff requests to server to see what values are contained so that a confiugration file can be created for a credential stuffing attack.
-- **hVNC**
+- **hVNC**:
 Hidden Virtual Network Computing, refers to a hidden instance of the remote desktop program VNC which has been installed on a victims computer by an attacker. Allows an attacker to take full-control of the users desktop, controlling the mouse and keyboard remotely.
