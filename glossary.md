@@ -34,3 +34,5 @@ The act of spreading maleware on computers not owned by the attacker. Often the 
 A USB which appears to be a normal storage USB but in actuality registers with the computer as a wireless keyboard, which has pre-written commands programmed by the attacker. Someone engaged in "spreading" may insert the USB and have the Rubber Ducky USB automatically compromise the computer.
 - **Rainbow Table**
 A table of common passwords stored using the hashed output as the key. Significantly speeds up the process of cracking hashed passwords.
+- **SSL Certificate Unpinning**
+Often mobile applications will compile an SSL certificate into a mobile app. This allows the mobile app to use the server API in a different way which can bypass things like captcha. Unpinning is the process of extracting the certificate from a compiled mobile application.

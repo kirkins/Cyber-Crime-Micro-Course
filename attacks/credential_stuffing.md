@@ -16,6 +16,8 @@ While the small forum might not have much of value for the attacker the account/
 
 To get a more in depth description of the process of doing a credential stuffing attack, see [my paper on the topic](https://kirkins.github.io/Cyber-Crime-Micro-Course/papers/paper1.pdf).
 
+Another attack that can be used in conjunction with credential stuffing is SSL certificate unpinning. This is where a certificate which has been compiled into a mobile app is extracted. Once the certificate has been extracted it can be used to make requests as a mobile device instead of through the normal web API. Often companies that have captcha on their website will not have captcha on the mobile app, thus by pretending to be a mobile app an attack can become much more efficient.
+
 **Note: Password Hasing**
 
 A successful SQL attack can yield a list of hashed or unhashed passwords. Hashed passwords are ones which are transformed using a one-way function which transforms them into a standard sized string of scrambled charachters. The same password input run through the same hashing algorithm will always produce the same hased result.

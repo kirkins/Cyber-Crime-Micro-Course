@@ -41,3 +41,7 @@ nav: links
 ## Addition References Used
 
 - [Answer About Origins of MiTM](https://security.stackexchange.com/a/78844/9472) - Schroeder user on Security Exchange who answered question on origin of MiTM.
+- [All That You Need to Know About Man-in-the-Middle Attacks](https://www.acunetix.com/blog/articles/man-in-the-middle-attacks/) - Article on MiTM
+
+## Videos
+- [What is SSL Pinning](https://www.youtube.com/watch?v=is8lHjEkk7U) - Quck video about SSL Pinning
