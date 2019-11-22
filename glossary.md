@@ -32,3 +32,5 @@ Computer software which allows the attacker to embedded an application at a lowe
 The act of spreading maleware on computers not owned by the attacker. Often the target program will be a RAT which adds the target computer to a botnet. Someone engaged in spreading may specialize in the act, by working for a botnet opperator, being paid per install.
 - **Rubber Ducky USB**
 A USB which appears to be a normal storage USB but in actuality registers with the computer as a wireless keyboard, which has pre-written commands programmed by the attacker. Someone engaged in "spreading" may insert the USB and have the Rubber Ducky USB automatically compromise the computer.
+- **Rainbow Table**
+A table of common passwords stored using the hashed output as the key. Significantly speeds up the process of cracking hashed passwords.

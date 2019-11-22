@@ -21,8 +21,10 @@ nav: links
 - [Trape](https://github.com/jofpin/trape) - OSINT tool for doxxing a targetted individual to get social media, geographical, and session data.
 - [Rubber Ducky USB](https://shop.hak5.org/products/usb-rubber-ducky-deluxe) - USB which registers as a wireless keyboard and inputs pre-written commands automatically, often used to compromise a computer in the act of spreading.
 - [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - OSInt Tool for finding information on a phone number
+- [John the Ripper](https://github.com/magnumripper/JohnTheRipper) - A free tool for cracking hashed passwords.
 
 ## Web Services
 
 - [Anti-Captcha](https://anti-captcha.com/) - Captcha solving as a service through API.
 - [2captcha](https://2captcha.com/) - Captcha solving as a service through API.
+- [Have I been Pwned](https://haveibeenpwned.com/) - A website that allows users to see if a password associated with their email has been leaked.
