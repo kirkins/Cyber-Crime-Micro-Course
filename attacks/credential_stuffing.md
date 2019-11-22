@@ -12,8 +12,9 @@ Credential stuffing is the use of leaked password sites to gain a list of valid 
 
 Often leaked passwords come from large website breaches like the famous LinkedIn breach, but they can also come from smaller less known sites. For example a small forum site with 100,000 users when attacked *(for instance by an SQL injection attack)* may leak a list of unprotected passwords.
 
-
 While the small forum might not have much of value for the attacker the account/password list provides the raw resources which can be used for a credential stuffing attack on several other sites.
+
+To get a more in depth description of the process of doing a credential stuffing attack, see [my paper on the topic](https://kirkins.github.io/Cyber-Crime-Micro-Course/papers/paper1.pdf).
 
 **Note: Password Hasing**
 
