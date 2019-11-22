@@ -6,7 +6,7 @@ nav: types
 
 ## Common Attacks
 
-- **Man in the Middle**:  
+- **[Man in the Middle](./attacks/mitm.md)**:  
 *When an attacker intercepts internet traffic between a user and end-destination and modifies the contents. Most instances prevented by the use of HTTPS.*
 - **Fuzzing**:  
 *Trying a large range of inputs on user generated inputs, often using special characters not used by normal users. This is done in an attepmt to find ways to break the program or web server*

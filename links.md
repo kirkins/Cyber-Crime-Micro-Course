@@ -20,8 +20,12 @@ nav: links
 - [ProxyScrape](https://proxyscrape.com/) - Site for residential proxies.
 - [Trape](https://github.com/jofpin/trape) - OSINT tool for doxxing a targetted individual to get social media, geographical, and session data.
 - [Rubber Ducky USB](https://shop.hak5.org/products/usb-rubber-ducky-deluxe) - USB which registers as a wireless keyboard and inputs pre-written commands automatically, often used to compromise a computer in the act of spreading.
-- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - OSInt Tool for finding information on a phone number
+- [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - OSInt Tool for finding information on a phone number.
 - [John the Ripper](https://github.com/magnumripper/JohnTheRipper) - A free tool for cracking hashed passwords.
+
+## Defensive Tools
+
+- [LetsEncrypt](https://letsencrypt.org/) - A free and automated way to create SSL certificates for HTTPS.
 
 ## Web Services
 
@@ -29,3 +33,7 @@ nav: links
 - [2captcha](https://2captcha.com/) - Captcha solving as a service through API.
 - [Have I been Pwned](https://haveibeenpwned.com/) - A website that allows users to see if a password associated with their email has been leaked.
 - [Shodan](https://www.shodan.io/) - A website for finding internet connected devices on the web.
+
+## Papers / Research
+
+- [A Review of Man-in-the-Middle Attacks](https://arxiv.org/pdf/1504.02115.pdf) - One of the first mentions of man in the middle attack (1981).
