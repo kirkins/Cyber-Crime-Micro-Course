@@ -9,6 +9,7 @@ nav: links
 ### Books
 - [Industry of Anonymity: Inside the Business of Cybercrime](https://www.hup.harvard.edu/catalog.php?isbn=9780674979413)
 - [Future Crimes: Everything Is Connected, Everyone Is Vulnerable and What We Can Do About It](http://www.futurecrimesbook.com/)
+- [Ghost In The Wires: My Adventures as the World's Most Wanted Hacker](https://www.amazon.com/dp/B0047Y0F0K)
 
 ### Tools
 
