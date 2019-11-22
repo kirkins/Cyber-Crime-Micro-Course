@@ -37,3 +37,7 @@ nav: links
 ## Papers / Research
 
 - [A Review of Man-in-the-Middle Attacks](http://dl.acm.org/citation.cfm?id=358797) - One of the first mentions of man in the middle attack (1981).
+
+## Addition References Used
+
+- [Answer About Origins of MiTM](https://security.stackexchange.com/a/78844/9472) - Schroeder user on Security Exchange who answered question on origin of MiTM.
