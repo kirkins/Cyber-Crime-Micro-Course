@@ -6,6 +6,8 @@ nav: credential_stuffing
 
 ## Credential Stuffing
 
+![OpenBullet Process](../imgs/openbullet.png)
+
 Credential stuffing is the use of leaked password sites to gain a list of valid username/password combinations for a target site.
 
 Often leaked passwords come from large website breaches like the famous LinkedIn breach, but they can also come from smaller less known sites. For example a small forum site with 100,000 users when attacked *(for instance by an SQL injection attack)* may leak a list of unprotected passwords.
@@ -24,6 +26,3 @@ What makes hasing so effective is that the algorithm is only one way. Plain-text
 Yet password hashing does not provide complete protection. A popular program [John the Ripper](https://github.com/magnumripper/JohnTheRipper) can be used to break password hashes given enough time. It has several modes for cracking one of the most popular being a dictionary attack. A dictionary attack involves comparing hashes in a database to a list of popular passwords in their hash formats. Of course having the same hash requires both the exact same input password and the exact same hashing algorithm. There may be many possible dictionaries to test against, but given the attacker has already obtained the database they have an essentially unlimited amount of time to make attempts at cracking.
 
 Salting adds uniqueness to a hashed password meaning that a standard rainbow table won't be effective. A salt is essentially a random string of text which is prepended or appended to the users passwords before it goes into the hashing algorithm. 
-
-
-![OpenBullet Process](../imgs/openbullet.png)
