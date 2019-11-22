@@ -23,7 +23,7 @@ When a large amount of traffic or requests is sent to a website in order to over
 - **Session Hijacking**:  
 *When an attacker resumes another users session with a website or app by gaining access to the means by which the website/application tracks the logged in user, this could be a cookie, token, or other means.*
 
-## Other Attacks
+### Other Attacks
 
 - Shell Shock
 - Email bombing

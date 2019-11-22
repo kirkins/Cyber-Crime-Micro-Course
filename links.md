@@ -29,6 +29,7 @@ nav: links
 - [Ghidra](https://www.nsa.gov/resources/everyone/ghidra/) - A reverse engineering tool developed by the NSA and released for public use.
 - [Burp Suite](https://portswigger.net/burp) - Tool for traffic analysis.
 - [Maltego](https://maltego.com) - A tool for analyzing data which uses algorithms known as "transforms" to convert data *(for example a users Facebook data)* into useful intelligence information. It is used by intelligence, police, as well as blackhat attackers.
+- [Easy-Creds](https://github.com/brav0hax/easy-creds) - Outdated tool for reference purposes, Fake access-point for SSL stripping published in 2013
 
 ### Defensive Tools
 
@@ -40,6 +41,7 @@ nav: links
 - [2captcha](https://2captcha.com/) - Captcha solving as a service through API.
 - [Have I been Pwned](https://haveibeenpwned.com/) - A website that allows users to see if a password associated with their email has been leaked.
 - [Shodan](https://www.shodan.io/) - A website for finding internet connected devices on the web.
+- [badSSL.com](https://badssl.com/dashboard/) - A website for checking if your device has bad trusted root authority certificates installed.
 
 ### Papers / Research
 
@@ -57,6 +59,9 @@ nav: links
 - [UNDERSTANDING MAN-IN-THE-MIDDLE ATTACKS - SSL HIJACKING (PART 4)](https://cert.ir/news/entry/12059?language_id=1)
 - [Thought Crime](http://thoughtcrime.org/) - Blog of security researcher Moxie Marlinspike
 - [SSL Stripping Presentation](https://www.owasp.org/images/7/7a/SSL_Spoofing.pdf) - Power Point on SSL Stripping by Duane Peifer
+- [SSL Strip for Newbies](https://avicoder.me/2016/02/22/SSLstrip-for-newbies/)
+- [I'm here to Protect You](https://secjohn.blogspot.com/) - Security Architecture, Leadership, and Pen Testing. Oh My!
+- [SuperFish public and private key](https://gist.github.com/mathiasbynens/7a13a467b22c42505490)
 
 ### Videos
 - [What is SSL Pinning](https://www.youtube.com/watch?v=is8lHjEkk7U) - Quck video about SSL Pinning
