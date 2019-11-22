@@ -36,4 +36,4 @@ nav: links
 
 ## Papers / Research
 
-- [A Review of Man-in-the-Middle Attacks](https://arxiv.org/pdf/1504.02115.pdf) - One of the first mentions of man in the middle attack (1981).
+- [A Review of Man-in-the-Middle Attacks](http://dl.acm.org/citation.cfm?id=358797) - One of the first mentions of man in the middle attack (1981).
