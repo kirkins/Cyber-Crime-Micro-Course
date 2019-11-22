@@ -18,11 +18,31 @@ To get a more in depth description of the process of doing a credential stuffing
 
 Another attack that can be used in conjunction with credential stuffing is SSL certificate unpinning. This is where a certificate which has been compiled into a mobile app is extracted. Once the certificate has been extracted it can be used to make requests as a mobile device instead of through the normal web API. Often companies that have captcha on their website will not have captcha on the mobile app, thus by pretending to be a mobile app an attack can become much more efficient.
 
+### SSL Pinning and Credential Stuffing
+
 Another technique that can be used in conjunction with credential stuffing is SSL certificate unpinning. This is where a certificate which has been compiled into an app to prevent MiTM and packet sniffing is disabled. Once the certificate has been disabled the network traffic can be analyzed and that data used to create a configuration file. Often a configuration file based on a mobile app traffic is more efficient than one using website traffic. This is because often companies that require completing a captcha on their website don't have the same requirment on their mobile app.
+
+### Bad Captchas
 
 Some servers only require changing a user-agent value to disable captcha completely where others are more complicated and secure.
 
-**Note: Password Hasing**
+One cracker I talked to reported that he had even encountered fake captcha systems, which appeared to be Captcha but would actually accept any submitted value. On the front-end the captcha widget would simply generate a random number using the code snippet below:
+
+    <input value="0.4464311458655813" name="captcharand" id="captcharand" style="display:inline-block" type="hidden">
+    <div style="display:inline-block;">
+    <span id="captcha"><img onclick="reloadimg(); return false;" src="captcha/generate.php" style="cursor:pointer;"></span>
+    <script language="javascript" type="text/javascript">
+    document.getElementById("login").focus();
+
+    function reloadimg() {
+        var a = Math.random();
+    document.getElementById("captcharand").value=a;
+    document.getElementById("captcha").innerHTML = '<img onclick="reloadimg(); return false;" src="captcha/generate.php?rand='+a+' " style="cursor:pointer;" />';
+    };
+    reloadimg();
+    </script><br>Captcha:<br>
+
+### **Note: Password Hasing**
 
 A successful SQL attack can yield a list of hashed or unhashed passwords. Hashed passwords are ones which are transformed using a one-way function which transforms them into a standard sized string of scrambled charachters. The same password input run through the same hashing algorithm will always produce the same hased result.
 

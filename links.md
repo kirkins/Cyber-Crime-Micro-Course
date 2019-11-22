@@ -26,7 +26,7 @@ nav: links
 - [John the Ripper](https://github.com/magnumripper/JohnTheRipper) - A free tool for cracking hashed passwords.
 - [IDA Pro](https://www.hex-rays.com/products/ida/) - A popular tool for reverse engineering.
 - [Burp Suite](https://portswigger.net/burp) - Tool for traffic analysis.
-- [Maltego](https://maltego.com)
+- [Maltego](https://maltego.com) - A tool for analyzing data which uses algorithms known as "transforms" to convert data *(for example a users Facebook data)* into useful intelligence information. It is used by intelligence, police, as well as blackhat attackers.
 
 ### Defensive Tools
 
