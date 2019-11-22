@@ -26,6 +26,7 @@ nav: links
 - [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga) - OSInt Tool for finding information on a phone number.
 - [John the Ripper](https://github.com/magnumripper/JohnTheRipper) - A free tool for cracking hashed passwords.
 - [IDA Pro](https://www.hex-rays.com/products/ida/) - A popular tool for reverse engineering.
+- [Ghidra](https://www.nsa.gov/resources/everyone/ghidra/) - A reverse engineering tool developed by the NSA and released for public use.
 - [Burp Suite](https://portswigger.net/burp) - Tool for traffic analysis.
 - [Maltego](https://maltego.com) - A tool for analyzing data which uses algorithms known as "transforms" to convert data *(for example a users Facebook data)* into useful intelligence information. It is used by intelligence, police, as well as blackhat attackers.
 
@@ -61,3 +62,6 @@ nav: links
 - [Chip & PIN Fraud Explained - Computerphile](https://www.youtube.com/watch?v=Ks0SOn8hjG8)
 - [How Criminals Bypass CAPTCHAs](https://www.youtube.com/watch?v=xdqFGlSeR-Y)
 - [Maltego - Cyber Weapons Lab - Research like an OSINT Analyst](https://www.youtube.com/watch?v=46st98FUf8s)
+- [Reverse engineering with #Ghidra: Breaking an embedded firmware encryption scheme](https://www.youtube.com/watch?v=4urMITJKQQs)
+- [Ghidra quickstart & tutorial: Solving a simple crackme](https://www.youtube.com/watch?v=fTGTnrgjuGA)
+- [DeepSec In-Depth Security Conference 2017](https://vimeo.com/ondemand/130877/)

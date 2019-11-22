@@ -16,12 +16,14 @@ As a website owner one of the best ways to protect against a ARP Spoofing attack
 
 ### IP Spoofing
 
+Attacker creates IP packets which have a false source IP address in order to impersonate another server. Can be used as part of a MiTM attack by sending false packets to both parties and forwarding on the responses. This gives the impression to both parties that they're talking to each other when in actuality they are talking to the attacker.
 
 ### DNS Spoofing (DNS Cache Poisoining)
-An attack that involves corrupting a Domain Name Server so that website names can be associated with an incorrect IP address, thus allowing for phishing attacks.
 
+An attack that involves corrupting a Domain Name Server so that website names can be associated with an incorrect IP address, thus allowing for MiTM attacks or phising.
 
 ### SSL Hijacking
+
 
 
 ### SSL Stripping
