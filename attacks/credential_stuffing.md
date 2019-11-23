@@ -45,7 +45,7 @@ One cracker I talked to reported that he had even encountered fake captcha syste
     reloadimg();
     </script><br>Captcha:<br>
 
-### **Note: Password Hasing**
+### **Note: Password Hashing**
 
 A successful SQL attack can yield a list of hashed or unhashed passwords. Hashed passwords are ones which are transformed using a one-way function which transforms them into a standard sized string of scrambled charachters. The same password input run through the same hashing algorithm will always produce the same hased result.
 
