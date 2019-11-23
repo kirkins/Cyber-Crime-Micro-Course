@@ -30,6 +30,8 @@ nav: links
 - [Burp Suite](https://portswigger.net/burp) - Tool for traffic analysis.
 - [Maltego](https://maltego.com) - A tool for analyzing data which uses algorithms known as "transforms" to convert data *(for example a users Facebook data)* into useful intelligence information. It is used by intelligence, police, as well as blackhat attackers.
 - [Easy-Creds](https://github.com/brav0hax/easy-creds) - Outdated tool for reference purposes, Fake access-point for SSL stripping published in 2013
+- [Masscan](https://github.com/robertdavidgraham/masscan) - Very fast tool for scanning TCP ports
+- [Mass SMS Sending Script](https://github.com/kirkins/Twilio-mass-SMS) - Send an SMS message to a large amount of numbers using Twilio
 
 ### Defensive Tools
 
