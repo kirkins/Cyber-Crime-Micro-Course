@@ -6,6 +6,8 @@ nav: se
 
 ## SE (Social Engineering)
 
+### What is Social Engineering?
+
 Social Engineering is when you use social skills to get things or information which you normally wouldn't have access to.
 
 Imagine that someone calls a restraunt to complain about their visit and is sent a coupon for a free meal, pretty normal right? Now imagine that the person had never eaten at the restraunt and only made the complaint to obtain a free meal coupon, that's social engineering.
