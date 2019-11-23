@@ -48,6 +48,17 @@ nav: links
 ### Papers / Research
 
 - [A Review of Man-in-the-Middle Attacks](http://dl.acm.org/citation.cfm?id=358797) - One of the first mentions of man in the middle attack (1981).
+- "I want my money back!" Limiting Online Password-Guessing Financially, Thirteenth
+Symposium on Usable Privacy and Security (SOUPS 2017), 2017, Santa Clara, CA,
+https://www.usenix.org/conference/soups2017/workshop-program/way2017/golla,
+USENIX Association
+- "ecthros/uncaptcha2", GitHub, 2019. [Online]. Available:
+https://github.com/ecthros/uncaptcha2. [Accessed: 29- Sep- 2019]
+-  Jeffrey L. Jenkins, Mark Grimes, Jeffrey Gainer Proudfoot & Paul Benjamin Lowry
+(2014) Improving Password Cybersecurity Through Inexpensive and Minimally
+Invasive Means: Detecting and Deterring Password Reuse Through
+Keystroke-Dynamics Monitoring and Just-in-Time Fear Appeals, Information
+Technology for Development, 20:2, 196-213, DOI: 10.1080/02681102.2013.814040
 
 ### Addition References Used
 
