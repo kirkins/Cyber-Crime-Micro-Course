@@ -40,3 +40,7 @@ Often mobile applications will compile a public SSL certifiate into a mobile app
 Hidden Virtual Network Computing, refers to a hidden instance of the remote desktop program VNC which has been installed on a victims computer by an attacker. Allows an attacker to take full-control of the users desktop, controlling the mouse and keyboard remotely.
 - **Keygen**:
 A program which generates keys, either for software, products, or some other unique code.
+- **Fullz**:
+For profile information on person at minimum this includes full name, billing address, credit card number, expiration date and card security code, Social Security number, and birth date.
+- **BIN**:
+A bin is the first four to six digits in a credit card number. The BIN indicates the institution which the card was issued by. A BIN can be used as part of a process of generating card numbers. BINs can also help determine if a card will be accepted by a payment processing system or not, for example some BINs may be seen as more high risk than others.
