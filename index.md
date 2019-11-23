@@ -10,4 +10,4 @@ This website is collection of my research related to cyber crime, dark markets, 
 
 It was originally created as a graduate course project as a reusable learning object (RLO), however I may continue to expand on the research after the semeter finishes.
 
-![CR1M3 Book Cover](./imgs/cover.png)
+[![CR1M3 Book Cover](./imgs/cover.png)](https://leanpub.com/CR1M3)

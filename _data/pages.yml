@@ -1,7 +1,7 @@
 index: 'Home'
 overview: 'Overview / Mindmap'
-types: 'Common Attacks'
-glossary: 'Glossary'
+types: 'Types of Hacks'
+se: 'Social Engineering'
 hardware: 'IoT and Botnets'
 interviews:
   label: 'Interviews'
@@ -9,4 +9,5 @@ interviews:
 papers:
   label: 'Research Papers'
   link: 'papers'
+glossary: 'CyberCrime Terms'
 links: 'Links'
