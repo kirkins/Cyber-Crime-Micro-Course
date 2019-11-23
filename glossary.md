@@ -38,3 +38,5 @@ A table of common passwords stored using the hashed output as the key. Significa
 Often mobile applications will compile a public SSL certifiate into a mobile app. This makes it so MiTM attacks can't be executed even if the person with the phone has full control of the network, since it only accepts requests which have been signed using the companies private key. Unpinning is the process of disabling the SSL certificate so that a MiTM attack can be performed *(most often by the owner of the device)*. Ussually done in order to sniff requests to server to see what values are contained so that a confiugration file can be created for a credential stuffing attack.
 - **hVNC**:
 Hidden Virtual Network Computing, refers to a hidden instance of the remote desktop program VNC which has been installed on a victims computer by an attacker. Allows an attacker to take full-control of the users desktop, controlling the mouse and keyboard remotely.
+- **Keygen**:
+A program which generates keys, either for software, products, or some other unique code.
