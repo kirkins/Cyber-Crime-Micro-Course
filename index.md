@@ -6,8 +6,8 @@ nav: index
 
 ## Cybercrime Mini-Course
 
-Welcome! 
+This website is collection of my research related to cyber crime, dark markets, common attacks, and how to defend against them.
 
-This is a project which includes all my research on cybercrime from September 2019 - December 2019. Come back soon for updates.
+It was originally created as a graduate course project as a reusable learning object (RLO), however I may continue to expand on the research after the semeter finishes.
 
 ![CR1M3 Book Cover](./imgs/cover.png)
