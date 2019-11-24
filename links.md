@@ -77,6 +77,7 @@ Technology for Development, 20:2, 196-213, DOI: 10.1080/02681102.2013.814040
 - [SuperFish public and private key](https://gist.github.com/mathiasbynens/7a13a467b22c42505490)
 - [NSA Cybersecurity open source software releases](https://nsacyber.github.io/opensource.html)
 - [Implementing a Partial Serial Number Verification System in Delphi](https://www.brandonstaggs.com/2007/07/26/implementing-a-partial-serial-number-verification-system-in-delphi/)
+- [Exploring Google Hacking Techniques](https://securitytrails.com/blog/google-hacking-techniques) - Article about Google Dorks
 
 ### Videos
 - [What is SSL Pinning](https://www.youtube.com/watch?v=is8lHjEkk7U) - Quck video about SSL Pinning
