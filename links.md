@@ -91,3 +91,4 @@ Technology for Development, 20:2, 196-213, DOI: 10.1080/02681102.2013.814040
 - [DeepSec In-Depth Security Conference 2017](https://vimeo.com/ondemand/130877/)
 - [Computer Science E-1: SSL and Session Hijacking](https://www.youtube.com/watch?v=zsR1YVNmPPc)
 - [DEF CON 17 - Moxie Marlinspike - More Tricks for Defeating SSL](https://www.youtube.com/watch?v=5dhSN9aEljg)
+- [AIDE 2018 Practical OSINT Tools of the trade Tom Moore](https://www.youtube.com/watch?v=nvdsQlT9_xY)
