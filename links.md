@@ -32,6 +32,8 @@ nav: links
 - [Easy-Creds](https://github.com/brav0hax/easy-creds) - Outdated tool for reference purposes, Fake access-point for SSL stripping published in 2013
 - [Masscan](https://github.com/robertdavidgraham/masscan) - Very fast tool for scanning TCP ports
 - [Mass SMS Sending Script](https://github.com/kirkins/Twilio-mass-SMS) - Send an SMS message to a large amount of numbers using Twilio
+- [Wordpress Scan](https://github.com/wpscanteam/wpscan) - Tool for finding wordpress vulnerabilities
+- [AFL](https://github.com/google/AFL) - american fuzzy lop - a security-oriented fuzzer http://lcamtuf.coredump.cx/afl/
 
 ### Defensive Tools
 
@@ -44,6 +46,7 @@ nav: links
 - [Have I been Pwned](https://haveibeenpwned.com/) - A website that allows users to see if a password associated with their email has been leaked.
 - [Shodan](https://www.shodan.io/) - A website for finding internet connected devices on the web.
 - [badSSL.com](https://badssl.com/dashboard/) - A website for checking if your device has bad trusted root authority certificates installed.
+- [Wordpress Vulnerability Database](https://wpvulndb.com/) - API that returns wordpress vulnerabilities of sites and plugins.
 
 ### Papers / Research
 
@@ -78,6 +81,7 @@ Technology for Development, 20:2, 196-213, DOI: 10.1080/02681102.2013.814040
 - [NSA Cybersecurity open source software releases](https://nsacyber.github.io/opensource.html)
 - [Implementing a Partial Serial Number Verification System in Delphi](https://www.brandonstaggs.com/2007/07/26/implementing-a-partial-serial-number-verification-system-in-delphi/)
 - [Exploring Google Hacking Techniques](https://securitytrails.com/blog/google-hacking-techniques) - Article about Google Dorks
+- [Practical Web Cache Poisoning](https://portswigger.net/research/practical-web-cache-poisoning)
 
 ### Videos
 - [What is SSL Pinning](https://www.youtube.com/watch?v=is8lHjEkk7U) - Quck video about SSL Pinning
@@ -93,3 +97,8 @@ Technology for Development, 20:2, 196-213, DOI: 10.1080/02681102.2013.814040
 - [Computer Science E-1: SSL and Session Hijacking](https://www.youtube.com/watch?v=zsR1YVNmPPc)
 - [DEF CON 17 - Moxie Marlinspike - More Tricks for Defeating SSL](https://www.youtube.com/watch?v=5dhSN9aEljg)
 - [AIDE 2018 Practical OSINT Tools of the trade Tom Moore](https://www.youtube.com/watch?v=nvdsQlT9_xY)
+- [Use Photon Scanner to Scrape Web OSINT Data [Tutorial]](https://www.youtube.com/watch?v=pJDJwD8GCIg)
+- [Practical Web Cache Poisoning: Redefining 'Unexploitable'](https://www.youtube.com/watch?v=j2RrmNxJZ5c)
+- [CppCon 2017: Kostya Serebryany “Fuzz or lose...”](https://www.youtube.com/watch?v=k-Cv8Q3zWNQ)
+- [The Art of Fuzzing - Demo 2: AFL workflow with FFMPEG](https://www.youtube.com/watch?v=0dqL6vfPCek)
+- [Life of an Exploit: Fuzzing PDFCrack with AFL for 0days](https://www.youtube.com/watch?v=8VLNPIIgKbQ)
