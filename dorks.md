@@ -17,3 +17,4 @@ Live Cameras:
 - inurl:top.htm inurl:currenttime
 - intitle:"webcamXP 5"
 - inurl:"lvappl.htm"
+- inurl:"ViewerFrame?Mode="
