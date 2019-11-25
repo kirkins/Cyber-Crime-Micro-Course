@@ -82,6 +82,8 @@ Technology for Development, 20:2, 196-213, DOI: 10.1080/02681102.2013.814040
 - [Implementing a Partial Serial Number Verification System in Delphi](https://www.brandonstaggs.com/2007/07/26/implementing-a-partial-serial-number-verification-system-in-delphi/)
 - [Exploring Google Hacking Techniques](https://securitytrails.com/blog/google-hacking-techniques) - Article about Google Dorks
 - [Practical Web Cache Poisoning](https://portswigger.net/research/practical-web-cache-poisoning)
+- [Day 8: Fuzzing 101 with AFL](https://medium.com/@int0x33/day-8-fuzzing-101-with-afl-678828cd7fa7)
+- [A Simple Tutorial of AFL-Fuzzer](http://spencerwuwu-blog.logdown.com/posts/1366733-a-simple-guide-of-afl-fuzzer)
 
 ### Videos
 - [What is SSL Pinning](https://www.youtube.com/watch?v=is8lHjEkk7U) - Quck video about SSL Pinning
