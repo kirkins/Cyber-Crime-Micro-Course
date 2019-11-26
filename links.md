@@ -34,6 +34,7 @@ nav: links
 - [Mass SMS Sending Script](https://github.com/kirkins/Twilio-mass-SMS) - Send an SMS message to a large amount of numbers using Twilio
 - [Wordpress Scan](https://github.com/wpscanteam/wpscan) - Tool for finding wordpress vulnerabilities
 - [AFL](https://github.com/google/AFL) - american fuzzy lop - a security-oriented fuzzer http://lcamtuf.coredump.cx/afl/
+- [Infoga](https://github.com/m4ll0k/Infoga) - Find information based on an email address
 
 ### Defensive Tools
 
@@ -86,7 +87,7 @@ Technology for Development, 20:2, 196-213, DOI: 10.1080/02681102.2013.814040
 - [A Simple Tutorial of AFL-Fuzzer](http://spencerwuwu-blog.logdown.com/posts/1366733-a-simple-guide-of-afl-fuzzer)
 
 ### Videos
-- [What is SSL Pinning](https://www.youtube.com/watch?v=is8lHjEkk7U) - Quck video about SSL Pinning
+- [What is SSL Pinning](https://www.youtube.com/watch?v=is8lHjEkk7U) - Quick video about SSL Pinning
 - [SSL pinning for Android iOS](https://www.youtube.com/watch?v=O7aTw81R6OI) - Video about SSL pinning from developer point of view
 - [Man in the Middle Attacks & Superfish - Computerphile](https://www.youtube.com/watch?v=-enHfpHMBo4)
 - [Running an SQL Injection Attack - Computerphile](https://www.youtube.com/watch?v=ciNHn38EyRc)
