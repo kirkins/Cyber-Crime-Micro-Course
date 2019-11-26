@@ -8,6 +8,8 @@ nav: dorks
 
 ### What are Google Dorks
 
+A Google Dork is a search term which can be used to find unsecured website or some other resource on the internet. Often this includes specifying a certain file type or a string of words or symbols which commonly appear in an admin page.
+
 ### Dorks
 
 Weather station WS-2:
