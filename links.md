@@ -111,3 +111,4 @@ Technology for Development, 20:2, 196-213, DOI: 10.1080/02681102.2013.814040
 - [CppCon 2017: Kostya Serebryany “Fuzz or lose...”](https://www.youtube.com/watch?v=k-Cv8Q3zWNQ)
 - [The Art of Fuzzing - Demo 2: AFL workflow with FFMPEG](https://www.youtube.com/watch?v=0dqL6vfPCek)
 - [Life of an Exploit: Fuzzing PDFCrack with AFL for 0days](https://www.youtube.com/watch?v=8VLNPIIgKbQ)
+- [DEF CON 23 - Ryan Castellucci - Cracking CryptoCurrency Brainwallets](https://www.youtube.com/watch?v=foil0hzl4Pg&feature=emb_title)
