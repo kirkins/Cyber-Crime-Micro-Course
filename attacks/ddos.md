@@ -45,6 +45,18 @@ Will cause the function to compile the data and serve it. In a caching system we
       |                   | the server-side code is executed.
       +-------------------+
 
-#### CDN (Content Delivery Network)
 
 #### Anti-DDOS Protection
+
+An anti-DDOS service protects against DDOS by analyzing traffic in real-time and denying access to users which look like bots.
+
+This can be deduced from several factors including:
+
+- Request Source
+- Packet Analysis
+- Request Frequency
+
+Request source is simply the IP address of the request, or IP range. This may be variable used among many which is accounted for. For example a high-risk IP address may be allowed to access a website when traffic is low, but during an active attack it may be blocked to maintain server capacity.
+
+Advanced anti-DDOS systems make use of machine learning to combine the factors listed and others to decide which traffic should be let through and which should be blocked.
+
