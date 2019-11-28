@@ -52,7 +52,7 @@ nav: links
 ### Defensive Web Services
 
 - [ThreatMetrix](https://risk.lexisnexis.com/products/threatmetrix) - A fraud detection API used by several major brands, uses data science to detect fraudulent accounts.
-- [Akamai Bot Manager](https://www.akamai.com/us/en/products/security/bot-manager.jsp) - A service which helps protect customer organizations against malicious bots which are used in attacks like credential stuffing and DDOS.
+- [Akamai Bot Manager](https://www.akamai.com/us/en/products/security/bot-manager.jsp) - A service which helps protect customer organizations against malicious bots which are used in attacks like credential stuffing and DDOS, as well as data scraping bots.
 
 ### Papers / Research
 
