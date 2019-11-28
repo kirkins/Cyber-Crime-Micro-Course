@@ -20,6 +20,25 @@ In other cases a library might automatically provide sanatization witout the dev
 
 Yet it is important to consider as even today when building on some use case specific technology, say an IoT device with a MySQL database on device, one might forget to perform the sanatization step and create a security vulnerability.
 
+## Example Queries on Vulnerable Sites
+
+Say you find a website which has a URL in the format below:
+
+    website.com/index.php?id=1234
+
+Notice that after the `?` there is an `id=1234`, this identifies the user to fetch.
+
+In a website vulnerable to injection you may be able to do something like:
+
+    website.com/index.php?id=1234 AND id=2222
+
+Doing could potentially return the logged in user and another user with ID of 2222.
+
+If we could find *(or guess)* the name of the SQL table holding passwords something like this could be done:
+
+    website.com/index.php?id=1234 union select password from user;
+
+
 ### Shell Shock
 
 Another attack which existed for a brief time that was similar to SQL injection was call shell shock.
