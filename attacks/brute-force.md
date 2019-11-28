@@ -21,6 +21,53 @@ Of course on a physical keypad entering 10,000 combinations is quite time consum
 
 ### Dictionary Attacks
 
+A dictionary attack is a specific brute force attack where the attempts are limited to a number of likely possibilities. For example consider the example above in which all 10,000 possible combinations on a keypad. Instead of trying all the combinations sequentially, we could instead create a list *(or "dictionary")* which lists codes in order of popularity. For example:
+
+    0000
+    1234
+    1111
+    2222
+    ...
+
+Often a dictionary will be words which are commonly used in passwords for example:
+
+    password
+    apple
+    dog
+    qwert
+    unlock
+    ...
+
+Hence the name "dictionary".
+
+More advanced dictionary attacks will add rules to each word. For example after using all common words are used, another loop might try those same words with numbers at the end:
+
+    password1
+    apple1
+    dog1
+    qwert1
+    unlock1
+    ...
+
+If the correct combination isn't found on that run another loop is done switching 1 for 2. Another loop may try combinations of words:
+
+    passwordApple
+    passwordDog
+    passwordQwerty
+    passwordUnlock
+    ...
+
+Or another run might try combinations which switch letters for numbers:
+
+    p455w0rd
+    4ppl3
+    d06
+    qw3r7
+    unl0ck
+    ...
+
+
+
 ### Case of Bitcoin Brain Wallet
 
 A great example of a good brute force attack is the case of Bitcoin Brain Wallets. A Bitcoin Brain Wallet is a Bitcoin wallet generated from an english phrase using a specific algorithm. The brain wallet was popularized because it makes remembering the private key to a wallet easier. Instead of having to remember a long key, a person could simply remember a word or phrase.

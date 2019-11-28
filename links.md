@@ -35,6 +35,7 @@ nav: links
 - [Wordpress Scan](https://github.com/wpscanteam/wpscan) - Tool for finding wordpress vulnerabilities
 - [AFL](https://github.com/google/AFL) - american fuzzy lop - a security-oriented fuzzer http://lcamtuf.coredump.cx/afl/
 - [Infoga](https://github.com/m4ll0k/Infoga) - Find information based on an email address
+- [Hatch](https://github.com/metachar/Hatch) - Hatch is a brute force tool that is used to brute force most websites
 
 ### Defensive Tools
 
@@ -91,6 +92,8 @@ Technology for Development, 20:2, 196-213, DOI: 10.1080/02681102.2013.814040
 - [Day 8: Fuzzing 101 with AFL](https://medium.com/@int0x33/day-8-fuzzing-101-with-afl-678828cd7fa7)
 - [A Simple Tutorial of AFL-Fuzzer](http://spencerwuwu-blog.logdown.com/posts/1366733-a-simple-guide-of-afl-fuzzer)
 - [Presentation on Shell Shock - Open Web Application Security Project](https://www.owasp.org/images/1/1b/Shellshock_-_Tudor_Enache.pdf)
+- [University of Denver - Password Cracking](https://web.cs.du.edu/~mitchell/forensics/information/pass_crack.html)
+- [Brute-Force Nearly Any Website Login with Hatch](https://null-byte.wonderhowto.com/how-to/brute-force-nearly-any-website-login-with-hatch-0192225/)
 
 ### Videos
 - [What is SSL Pinning](https://www.youtube.com/watch?v=is8lHjEkk7U) - Quick video about SSL Pinning
