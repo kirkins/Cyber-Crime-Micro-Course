@@ -85,6 +85,7 @@ Technology for Development, 20:2, 196-213, DOI: 10.1080/02681102.2013.814040
 - [Practical Web Cache Poisoning](https://portswigger.net/research/practical-web-cache-poisoning)
 - [Day 8: Fuzzing 101 with AFL](https://medium.com/@int0x33/day-8-fuzzing-101-with-afl-678828cd7fa7)
 - [A Simple Tutorial of AFL-Fuzzer](http://spencerwuwu-blog.logdown.com/posts/1366733-a-simple-guide-of-afl-fuzzer)
+- [Presentation on Shell Shock - Open Web Application Security Project](https://www.owasp.org/images/1/1b/Shellshock_-_Tudor_Enache.pdf)
 
 ### Videos
 - [What is SSL Pinning](https://www.youtube.com/watch?v=is8lHjEkk7U) - Quick video about SSL Pinning

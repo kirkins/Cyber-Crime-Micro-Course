@@ -10,7 +10,7 @@ nav: types
 *When an attacker intercepts internet traffic between a user and end-destination and modifies the contents. Most instances prevented by the use of HTTPS.*
 - **[Fuzzing](./attacks/fuzzing.md)**:  
 *Trying a large range of inputs on user generated inputs, often using special characters not used by normal users. This is done in an attepmt to find ways to break the program or web server*
-- **SQL Injection**:  
+- **[SQL Injection](./attacks/sql-injection.md)**:  
 *When user input is used as part of a database query an SQL injection is possible when there isn't a sanitization step that stops a user from inputting SQL commands. Often SQL Injection attacks result in the attacker being able to obtain a database dump.*
 - **DDOS**:  
 When a large amount of traffic or requests is sent to a website in order to overwhelm a server and make it go offline.*
