@@ -12,7 +12,7 @@ nav: types
 *Trying a large range of inputs on user generated inputs, often using special characters not used by normal users. This is done in an attepmt to find ways to break the program or web server*
 - **[SQL Injection](./attacks/sql-injection.md)**:  
 *When user input is used as part of a database query an SQL injection is possible when there isn't a sanitization step that stops a user from inputting SQL commands. Often SQL Injection attacks result in the attacker being able to obtain a database dump.*
-- **DDOS**:  
+- **[DDOS](./attacks/ddos.md)**:  
 When a large amount of traffic or requests is sent to a website in order to overwhelm a server and make it go offline.*
 - **[Credential Stuffing](./attacks/credential_stuffing.md)**:  
 *When a user/password combination which has been obtained from a website or source is used en mass on another site to find accounts using the same password on both.*
