@@ -49,6 +49,11 @@ nav: links
 - [badSSL.com](https://badssl.com/dashboard/) - A website for checking if your device has bad trusted root authority certificates installed.
 - [Wordpress Vulnerability Database](https://wpvulndb.com/) - API that returns wordpress vulnerabilities of sites and plugins.
 
+### Defensive Web Services
+
+- [ThreatMetrix](https://risk.lexisnexis.com/products/threatmetrix) - A fraud detection API used by several major brands, uses data science to detect fraudulent accounts.
+- [Akamai Bot Manager](https://www.akamai.com/us/en/products/security/bot-manager.jsp) - A service which helps protect customer organizations against malicious bots which are used in attacks like credential stuffing and DDOS.
+
 ### Papers / Research
 
 - [A Review of Man-in-the-Middle Attacks](http://dl.acm.org/citation.cfm?id=358797) - One of the first mentions of man in the middle attack (1981).
