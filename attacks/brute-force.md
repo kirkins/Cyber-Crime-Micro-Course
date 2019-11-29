@@ -66,7 +66,16 @@ Or another run might try combinations which switch letters for numbers:
     unl0ck
     ...
 
+A popular program for brute forcing passwords is [John The Ripper](https://github.com/magnumripper/JohnTheRipper). Modern versions of John the Ripper have several modes which are complex variations of the methods explained above.
 
+### Brute Force on the Web
+
+Brute forcing on the web has more constraints than normally exist locally, for example rate limiting and locking of accounts after a certain amount of failed attempts per account. Despite widespread of anti brute force systems in place there are still some websites which are vulnerable to this attack vector.
+
+Tools for brute force on the web include:
+
+- [Hatch](https://github.com/metachar/Hatch) - Hatch is a brute force tool that is used to brute force most websites
+- [BruteSpray](https://github.com/x90skysn3k/brutespray) - Brute-Forcing from Nmap output - Automatically attempts default creds on found services.
 
 ### Case of Bitcoin Brain Wallet
 
@@ -85,4 +94,27 @@ At [DEF CON 23 Ryan Castellucci](https://www.youtube.com/watch?v=foil0hzl4Pg&fea
 
 ### Brute Force for Cracking
 
+We've talked about Brute Force for password cracking but it also a valuable tool in the cracking world. Brute forcing and dictionary attacks are also great tools for those crack. Targets for cracking include but are not limited to:
+
+- Serial codes for Software
+- Serial codes for hardware or physical engineering *(see social engineering section for more on why)*
+- Coupon codes *(free food, gifts, ect.)*
+- Gift cards
+
+When it comes to the above items there are varying degrees of difficulty. This comes down to the method by which numbers are assigned, also if there is additional piece of data to verify the main number *(card number and pin combination)*.
+
+The worst codes use a variation of incrimenting numbers, thus by obtaining a legitimate code by normal means, others can be deduced simply by adding 1.
+
+Another crucial aspect for cracking is being able to confirm if a value is valid or not. Online giftcard balance checkers are often used for this. A balance checker without rate-limiting or some form of captcha can be a major security hole allowing crackers to find valid values. Companies with the worst designed giftcards have found themselves to be continual targets.
+
+A popular example in the USA in the restraunt P. F. Chang whose giftcards are regularly sold on black markets for 10% of face value or less. Since these giftcards a gained by cracking methods, their use implies the loss of funds for a valid giftcard owner.
+
+Ways to prevent cracking include:
+
+- Using a good algorithm to create numbers.
+- Limit crackers ability to check if a guess is correct.
+- Have a pin attached to a giftcard which is seperate from the main number, created using a seperate algorithm.
+
 ### Preventing Brute Force Attacks
+
+

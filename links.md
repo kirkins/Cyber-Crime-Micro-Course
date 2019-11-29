@@ -36,10 +36,12 @@ nav: links
 - [AFL](https://github.com/google/AFL) - american fuzzy lop - a security-oriented fuzzer http://lcamtuf.coredump.cx/afl/
 - [Infoga](https://github.com/m4ll0k/Infoga) - Find information based on an email address
 - [Hatch](https://github.com/metachar/Hatch) - Hatch is a brute force tool that is used to brute force most websites
+- [BruteSpray](https://github.com/x90skysn3k/brutespray) - Brute-Forcing from Nmap output - Automatically attempts default creds on found services.
 
 ### Defensive Tools
 
 - [LetsEncrypt](https://letsencrypt.org/) - A free and automated way to create SSL certificates for HTTPS.
+- [Snort](https://www.snort.org/) - Network Intrusion Detection & Prevention System
 
 ### Web Services
 
