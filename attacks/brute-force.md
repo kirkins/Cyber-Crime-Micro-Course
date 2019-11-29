@@ -117,4 +117,10 @@ Ways to prevent cracking include:
 
 ### Preventing Brute Force Attacks
 
+Similiar to cracking Brute Force attacks can be prevented by:
 
+- Strong passwords, difficult to guess, long, make use of symbols
+- Rate limit attempts per IP
+- Lock an account and inform owner by email after certain amount of failed login attempts
+- On hardware wipe a device or lock down in some way after a certain amount of failed login attempts
+- Require 2FA security, so that something else is required in addition to a password, for example verify by phone or email
