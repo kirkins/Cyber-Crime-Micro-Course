@@ -4,19 +4,42 @@ title: Google Dorks
 nav: dorks
 ---
 
-## Google Dorks
+## Google Dorks or Dorks
 
 ### What are Google Dorks
 
 A Google Dork is a search term which can be used to find unsecured website or some other resource on the internet. Often this includes specifying a certain file type or a string of words or symbols which commonly appear in an admin page.
 
-### Dorks
+It should be noted that these same techniques can be used on other search engines such as DuckDuckGo, which may even be a better source as Google sometimes censors the results of dorks in order to prevent malicious use.
 
-Weather station WS-2:
+### Internet Connected Devices
+
+In this section we'll look at some search queries which return internet connected devices.
+
+#### Weather station WS-2
 - intitle:"Weather Wing WS-2"
 
-Live Cameras:
+#### Live Cameras
 - inurl:top.htm inurl:currenttime
 - intitle:"webcamXP 5"
 - inurl:"lvappl.htm"
 - inurl:"ViewerFrame?Mode="
+
+#### FTP 
+
+In many cases FTP is not inteded to be accessed via web browser but it can be left open to do so. The query below will return ftp servers, you can modify the `after:2019` to get older results, or remove it all together to get results from anytime.
+
+- intitle:"index of" inurl:ftp after:2019
+
+- intitle:index of ws_ftp.ini
+
+#### Find Music
+
+As search engines crack down on sharing of copy-righted music dorks which find MP3 files from your favourite muscians can also come in handy.
+
+- ?intitle:index.of? mp3 artist-name
+
+
+#### Passwords
+
+
