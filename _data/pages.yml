@@ -3,6 +3,7 @@ overview: 'Overview / Mindmap'
 types: 'Types of Hacks'
 se: 'Social Engineering'
 hardware: 'IoT and Botnets'
+dorks: 'Dorks'
 interviews:
   label: 'Interviews'
   link: 'interviews'
