@@ -1,4 +1,4 @@
----
+--
 layout: default
 title: Google Dorks
 nav: dorks
@@ -49,4 +49,15 @@ As search engines crack down on sharing of copy-righted music dorks which find M
 - ext:asp inurl:pathto.asp
 - ext:cgi inurl:editcgi.cgi inurl:file=
 - inurl:_vti_pvt “service.pwd”
+- "AutoCreate=TRUE password=*"
+- filetype:conf inurl:proftpd.conf –sample
+- filetype:rdp rdp
+- intitle:index.of .bash_history
+- intitle:index.of .sh_history
+- “index of ” lck
+- filetype:reg reg HKEY_CURRENT_USER username
 
+#### User Lists
+
+- inurl:admin inurl:userlist
+- inurl:admin filetype:asp inurl:userlist
