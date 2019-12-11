@@ -30,8 +30,8 @@ In this section we'll look at some search queries which return internet connecte
 In many cases FTP is not inteded to be accessed via web browser but it can be left open to do so. The query below will return ftp servers, you can modify the `after:2019` to get older results, or remove it all together to get results from anytime.
 
 - intitle:"index of" inurl:ftp after:2019
-
 - intitle:index of ws_ftp.ini
+- filetype:conf inurl:proftpd.conf –sample
 
 #### Find Music
 
@@ -50,7 +50,6 @@ As search engines crack down on sharing of copy-righted music dorks which find M
 - ext:cgi inurl:editcgi.cgi inurl:file=
 - inurl:_vti_pvt “service.pwd”
 - "AutoCreate=TRUE password=*"
-- filetype:conf inurl:proftpd.conf –sample
 - filetype:rdp rdp
 - intitle:index.of .bash_history
 - intitle:index.of .sh_history
