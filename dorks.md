@@ -42,10 +42,11 @@ As search engines crack down on sharing of copy-righted music dorks which find M
 
 #### Passwords, Admin Panels, and Config Files
 
+Note: notice the use of `ext:` in this section, logs, and others. It specifies the specific file-type. Don't limit yourself to what you see here, try searching other filetypes that you think could result in interesting content, you may end up creating your own dork.
+
 - ext:inc "pwd=" "UID="
 - ext:asa \| ext:bak intext:uid intext:pwd -"uid..pwd" database \| server \| dsn
 - ext:txt inurl:unattend.txt
-- ext:yml database inurl:config
 - ext:asp inurl:pathto.asp
 - ext:cgi inurl:editcgi.cgi inurl:file=
 - "AutoCreate=TRUE password=*"
@@ -58,6 +59,7 @@ As search engines crack down on sharing of copy-righted music dorks which find M
 - intitle:index.of .sh_history
 - “index of ” lck
 - filetype:reg reg HKEY_CURRENT_USER username
+- ext:yml database inurl:config
 
 #### User Lists
 
