@@ -48,9 +48,12 @@ As search engines crack down on sharing of copy-righted music dorks which find M
 - ext:yml database inurl:config
 - ext:asp inurl:pathto.asp
 - ext:cgi inurl:editcgi.cgi inurl:file=
-- inurl:_vti_pvt “service.pwd”
 - "AutoCreate=TRUE password=*"
 - filetype:rdp rdp
+
+#### Logs
+
+- inurl:_vti_pvt “service.pwd”
 - intitle:index.of .bash_history
 - intitle:index.of .sh_history
 - “index of ” lck
