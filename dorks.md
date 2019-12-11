@@ -40,6 +40,13 @@ As search engines crack down on sharing of copy-righted music dorks which find M
 - ?intitle:index.of? mp3 artist-name
 
 
-#### Passwords
+#### Passwords, Admin Panels, and Config Files
 
+- ext:inc "pwd=" "UID="
+- ext:asa | ext:bak intext:uid intext:pwd -"uid..pwd" database | server | dsn
+- ext:txt inurl:unattend.txt
+- ext:yml database inurl:config
+- ext:asp inurl:pathto.asp
+- ext:cgi inurl:editcgi.cgi inurl:file=
+- inurl:_vti_pvt “service.pwd”
 
