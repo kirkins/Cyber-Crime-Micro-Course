@@ -25,6 +25,12 @@ In this section we'll look at some search queries which return internet connecte
 - inurl:"lvappl.htm"
 - inurl:"ViewerFrame?Mode="
 
+#### Find Music
+
+As search engines crack down on sharing of copy-righted music dorks which find MP3 files from your favourite muscians can also come in handy.
+
+- ?intitle:index.of? mp3 artist-name
+
 #### FTP 
 
 In many cases FTP is not inteded to be accessed via web browser but it can be left open to do so. The query below will return ftp servers, you can modify the `after:2019` to get older results, or remove it all together to get results from anytime.
@@ -32,13 +38,6 @@ In many cases FTP is not inteded to be accessed via web browser but it can be le
 - intitle:"index of" inurl:ftp after:2019
 - intitle:index of ws_ftp.ini
 - filetype:conf inurl:proftpd.conf –sample
-
-#### Find Music
-
-As search engines crack down on sharing of copy-righted music dorks which find MP3 files from your favourite muscians can also come in handy.
-
-- ?intitle:index.of? mp3 artist-name
-
 
 #### Passwords, Admin Panels, and Config Files
 
@@ -51,6 +50,9 @@ Note: notice the use of `ext:` in this section, logs, and others. It specifies t
 - ext:cgi inurl:editcgi.cgi inurl:file=
 - "AutoCreate=TRUE password=*"
 - filetype:rdp rdp
+- allinurl: admin mdb
+- auth_user_file.txt
+- config.php
 
 #### Logs
 
